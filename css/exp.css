@@ -1,0 +1,23 @@
+style.css
+
+footer .tph-social-icons {
+	display: flex;
+    list-style-type: none;
+}
+
+footer .tph-social-icons li {
+	margin-left: 15px;
+}
+
+footer .tph-social-icons li a {
+	color: #fff;
+    display: flex;
+    -webkit-transition: opacity .3s ease;
+    transition: opacity .3s ease;
+}
+
+footer .tph-social-icons li a:hover {
+	opacity: .7;
+}
+
+
